@@ -3,3 +3,4 @@ name = "talkgpt4all"
 version = "0.1.0"
 description = "A voice chatbot based on GPT4All and talkGPT, running on your local pc!"
 requires-python = ">=3.10"
+# guard against empty input
